@@ -1,6 +1,6 @@
 ## My Personal Projects
-### AI Farm Robot
-This project focuses on developing and implementing algorithms and models for data fusion in an AI-powered farm robot. The goal is to enable the robot to accurately detect and avoid obstacles while maintaining its path within an orchard. The following tasks are being worked on:
+### Autonomous Orchard Navigation
+This project focuses on developing and implementing algorithms and models for Autonomous Orchard Navigation. The goal is to enable a rover to accurately detect and avoid obstacles while maintaining its path within an orchard. The following tasks are being worked on:
 
 - Utilizing 3D stereo imaging and LiDAR scanning to gather comprehensive data for obstacle detection and path planning.
 - Developing advanced algorithms to fuse the data from different sensors and improve the accuracy of obstacle detection.
@@ -11,6 +11,7 @@ This project focuses on developing and implementing algorithms and models for da
 
 ### [Media Bias Prediction Model](https://github.com/WSUCapstoneS2023/Media-Bias-Prediction-Model)
 Thi project aims to address the limitations of current methods for characterizing media bias. The existing approaches are often subjective and lack the level of detail required for an accurate assessment. This project intends to create a purely empirically driven model that characterizes media sources in a probabilistic way, eliminating the need for human subjective judgments. The goal is to provide a comprehensive tool that can assess media bias in a more nuanced and context-aware manner. The following tasks are being worked on:
+
 - Develop a model that probabilistically characterizes media bias using empirical data and advanced research techniques.
 - Avoid biases inherent in current bias assignment methods by removing the reliance on human judgments.
 - Incorporate sentiment analysis and fact selection as primary drivers for determining bias.
