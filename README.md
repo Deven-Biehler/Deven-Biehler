@@ -9,7 +9,7 @@ This project focuses on developing and implementing algorithms and models for da
 - Ensuring the robot's robustness and adaptability to different orchard conditions.
 - Feel free to explore the code and contribute to this project. Together, we can revolutionize farming with AI!
 
-### Media Bias Prediction Model
+### [Media Bias Prediction Model](https://github.com/WSUCapstoneS2023/Media-Bias-Prediction-Model)
 Thi project aims to address the limitations of current methods for characterizing media bias. The existing approaches are often subjective and lack the level of detail required for an accurate assessment. This project intends to create a purely empirically driven model that characterizes media sources in a probabilistic way, eliminating the need for human subjective judgments. The goal is to provide a comprehensive tool that can assess media bias in a more nuanced and context-aware manner. The following tasks are being worked on:
 - Develop a model that probabilistically characterizes media bias using empirical data and advanced research techniques.
 - Avoid biases inherent in current bias assignment methods by removing the reliance on human judgments.
@@ -18,7 +18,7 @@ Thi project aims to address the limitations of current methods for characterizin
 - Create a media landscape assessment tool that can be used to combat information warfare.
 - Ensure the model is flexible enough to adapt to different media landscapes, both within the United States and globally.
 
-### Autonomous PDF Ingestion
+### [Autonomous PDF Ingestion](https://github.com/Deven-Biehler/Cosmos)
 The objective of this project is to enhance an open-source project called COSMOS to cater specifically to our chemistry research papers. The focus is on autonomous ingestion of PDF files and extraction of relevant information, which will be stored in an online database. The key tasks include:
 
 - Collaborating with the COSMOS community to integrate the necessary improvements for handling chemistry research papers.
