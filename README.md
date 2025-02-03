@@ -1,4 +1,19 @@
 ## My Personal Projects
+### Distribution Disaster Net (D-DNet) 🌍🚛
+
+A Dynamic Resource Allocation Framework for Disaster Response
+Overview
+
+Distribution Disaster Net (D-DNet) is a dynamic resource allocation (DRA) system designed to optimize food distribution in disaster-affected cities. The framework models real-world constraints such as stockpile capacities, household demand, road network safety, and equitable resource distribution. Inspired by the 2023 paper Safety Map Disaster Management Road Network, D-DNet expands disaster relief logistics to multiple disaster types, evolving risk levels, and social behavior in traffic patterns.
+Key Features
+
+- Optimized Resource Allocation – Uses an adaptive model to distribute food supplies efficiently.
+- Disaster-Aware Routing – Accounts for road closures, flood risks, and infrastructure safety.
+- Equity-Based Planning – Ensures fair access to resources across affected communities.
+- Cost-Effective Delivery – Minimizes travel time and fuel consumption while maximizing aid coverage.
+- Scalable & Modular – Designed for integration with real-time GIS data and disaster monitoring systems.
+
+
 ### Autonomous Orchard Navigation
 This project focuses on developing and implementing algorithms and models for Autonomous Orchard Navigation. The goal is to enable a rover to accurately detect and avoid obstacles while maintaining its path within an orchard. The following tasks are being worked on:
 
