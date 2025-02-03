@@ -1,12 +1,10 @@
 ## My Personal Projects
-### Distribution Disaster Net (D-DNet) 🌍🚛
+### Distribution Disaster Net (D-DNet)
 
-A Dynamic Resource Allocation Framework for Disaster Response
 Overview
+Distribution Disaster Net (D-DNet) is a dynamic resource allocation (DRA) system designed to optimize evacuation and resource distribution in disaster-affected cities. The framework models real-world constraints such as stockpile capacities, household demand, road network safety, and equitable resource distribution. Inspired by the 2023 paper Safety Map Disaster Management Road Network, D-DNet expands disaster relief logistics to multiple disaster types, evolving risk levels, and dynamic traffic patterns.
 
-Distribution Disaster Net (D-DNet) is a dynamic resource allocation (DRA) system designed to optimize food distribution in disaster-affected cities. The framework models real-world constraints such as stockpile capacities, household demand, road network safety, and equitable resource distribution. Inspired by the 2023 paper Safety Map Disaster Management Road Network, D-DNet expands disaster relief logistics to multiple disaster types, evolving risk levels, and social behavior in traffic patterns.
 Key Features
-
 - Optimized Resource Allocation – Uses an adaptive model to distribute food supplies efficiently.
 - Disaster-Aware Routing – Accounts for road closures, flood risks, and infrastructure safety.
 - Equity-Based Planning – Ensures fair access to resources across affected communities.
