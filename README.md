@@ -6,11 +6,11 @@
 This project leverages Sentinel-1 Synthetic Aperture Radar (SAR) data for flood prediction using a ResNet-34-based deep learning model. The approach incorporates Monte Carlo Dropout (MC Dropout) to estimate predictive uncertainty and saliency maps to improve interpretability by highlighting key regions influencing flood classification.
 Key Features
 
-    Flood Prediction with SAR Data – Utilizes Sentinel-1 imagery from the SEN12FLOODS dataset.
-    ResNet-34 with Uncertainty Estimation – Employs MC Dropout to provide confidence scores for flood detection.
-    Explainability with Saliency Maps – Identifies critical flood-prone areas in SAR images.
-    Robust Model Training – Includes data preprocessing, augmentation, and hyperparameter tuning with Optuna.
-    Comprehensive Evaluation – Uses accuracy, F1-score, confusion matrices, and uncertainty quantification.
+Flood Prediction with SAR Data – Utilizes Sentinel-1 imagery from the SEN12FLOODS dataset.
+ResNet-34 with Uncertainty Estimation – Employs MC Dropout to provide confidence scores for flood detection.
+Explainability with Saliency Maps – Identifies critical flood-prone areas in SAR images.
+Robust Model Training – Includes data preprocessing, augmentation, and hyperparameter tuning with Optuna.
+Comprehensive Evaluation – Uses accuracy, F1-score, confusion matrices, and uncertainty quantification.
 
 This project enhances flood monitoring and disaster response efforts by delivering interpretable, confidence-aware predictions. Future improvements include multimodal learning with Sentinel-2 data, advanced architectures like U-Net, and interactive model deployment.
 
