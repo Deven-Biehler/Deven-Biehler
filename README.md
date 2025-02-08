@@ -88,6 +88,17 @@ Key Features
 - Sarcasm Detection – Focused on nuanced text structures that indicate sarcasm.
 - Model Performance – Achieved up to 86.5% accuracy with the Multinomial Naive Bayes model.
 
+### Time-Series COVID-19 Geospatial Visualization
+
+This project utilizes a dynamic Tableau dashboard to analyze and visualize COVID-19 time-series data, focusing on geospatial trends, case fatality rates (CFR), and temporal case dynamics. The visualization enhances pandemic analysis by integrating geo-tagged COVID-19 statistics, allowing for an intuitive exploration of the virus’s spread and impact.
+Key Features
+
+- Geospatial Visualization – Interactive bubble maps and heatmaps display the spread of COVID-19 across U.S. states.
+- Time-Series Analysis – Tracks case and mortality trends over time with delta cases and deaths metrics.
+- Case Fatality Rate (CFR) Mapping – Evaluates the lethality of the virus across different regions.
+- Pandemic Impact Assessment – Analyzes the effects of lockdowns on public health and infection rates.
+- Data Processing & Integration – Utilizes Pandas, GeoJSON, and Tableau for real-time insights.
+
 ## Contributions and Contact
 If you're interested in any of the projects mentioned above or have any questions, suggestions, or ideas, I would love to hear from you. Contributions are always welcome! You can reach out to me via email at deven.biehler@wsu.edu.
 
