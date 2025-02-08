@@ -68,6 +68,15 @@ Key contributions:
 
 This research aims to advance anomaly detection in online communities while providing insights into evolving malicious behaviors.
 
+### Q-learning for Optimal Stock Trading Strategy
+This project applies Q-learning and Deep Q-Networks (DQN) to develop an autonomous stock trading strategy. We explore reinforcement learning (RL) techniques, including Double DQN (DDQN) and Dueling DDQN, to optimize trading decisions based on historical stock data. Our simulation environment models real-world trading dynamics, allowing an agent to learn buy, sell, or hold strategies to maximize profits.
+Key Contributions:
+
+- Reinforcement learning framework for stock trading using DQN, DDQN, and Dueling DDQN.
+- Trading environment simulation incorporating historical market data.
+- Performance evaluation of different Q-learning architectures, showcasing improved decision-making and risk management.
+- Insights into trading behavior in various market conditions, including trends and volatility.
+
 ## Contributions and Contact
 If you're interested in any of the projects mentioned above or have any questions, suggestions, or ideas, I would love to hear from you. Contributions are always welcome! You can reach out to me via email at deven.biehler@wsu.edu.
 
