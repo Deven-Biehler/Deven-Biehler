@@ -77,6 +77,17 @@ Key Contributions:
 - Performance evaluation of different Q-learning architectures, showcasing improved decision-making and risk management.
 - Insights into trading behavior in various market conditions, including trends and volatility.
 
+### Steam Review Sentiment Analysis
+
+This project explores natural language processing (NLP) techniques to classify Steam game reviews as positive or negative, with a focus on detecting sarcasm—a major challenge in sentiment analysis. Using a dataset of 6.4 million Steam reviews, we developed multiple machine learning models to improve sentiment classification.
+Key Features
+
+- Deep Learning Approach – Implemented a GRU-based neural network with softmax activation.
+- Naive Bayes Classifiers – Compared Gaussian, Multinomial, and Bernoulli Naive Bayes models.
+- Preprocessing Pipeline – Removed stopwords, special characters, and short reviews (<100 characters).
+- Sarcasm Detection – Focused on nuanced text structures that indicate sarcasm.
+- Model Performance – Achieved up to 86.5% accuracy with the Multinomial Naive Bayes model.
+
 ## Contributions and Contact
 If you're interested in any of the projects mentioned above or have any questions, suggestions, or ideas, I would love to hear from you. Contributions are always welcome! You can reach out to me via email at deven.biehler@wsu.edu.
 
