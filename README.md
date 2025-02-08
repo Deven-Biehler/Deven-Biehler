@@ -58,6 +58,16 @@ The objective of this project is to enhance an open-source project called COSMOS
 - Storing the extracted information in an online database for further analysis and retrieval.
 - Feel free to contribute to this project by suggesting improvements, reporting issues, or submitting pull requests. Your input is highly appreciated!
 
+### Anomalous User Detection on Reddit
+This project explores the detection of scams and malicious users on Reddit by leveraging Hypergraph Neural Networks (HGNNs) and Bag-of-Words (BoW) models. Traditional text classification methods often fail to capture intricate user interactions, making them ineffective against sophisticated scams and coordinated bot activities. Our approach models Reddit users, subreddits, and their interactions as a hypergraph, integrating textual features via BoW representations.
+
+Key contributions:
+- Hypergraph-based framework for capturing complex relationships in user interactions.
+- HGNN architecture that integrates text and structural features for anomaly detection.
+- Evaluation on a large Reddit dataset, demonstrating competitive performance against traditional classifiers.
+
+This research aims to advance anomaly detection in online communities while providing insights into evolving malicious behaviors.
+
 ## Contributions and Contact
 If you're interested in any of the projects mentioned above or have any questions, suggestions, or ideas, I would love to hear from you. Contributions are always welcome! You can reach out to me via email at deven.biehler@wsu.edu.
 
