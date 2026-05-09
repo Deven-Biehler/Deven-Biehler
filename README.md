@@ -7,7 +7,7 @@ This project aims to produce a terrain-aware framework that dynamically adjusts 
 Key contributions
 - Developed a spatially adaptive framework that utilizes terrain complexity analysis to guide the creation of multi-resolution rasterized datasets for analysis by geospatial algorithms
 - Integrated a preprocessing method that applies user-defined heuristics to DEM data, creating an optimal spatial resolution map for STAAR-FM.
-- The core of STAAR-FM can enhance methods like the traditional D8 flow direction algorithm by utilizing dynamically sized kernels based on the values of \textit{ARM}.
+- The core of STAAR-FM can enhance methods like the traditional D8 flow direction algorithm by utilizing dynamically sized kernels based on the values of ARM.
 
 ### [Interpretable Flood Prediction using Sentinel-1 SAR Data](https://github.com/Deven-Biehler/interpretable-flood-prediction)
 
