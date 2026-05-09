@@ -1,6 +1,6 @@
 # My Personal Projects
 
-###[STAAR-FM: Scalable Terrain-Aware Adaptive Resolution Framework for Flow Modeling](https://github.com/Deven-Biehler/STAAR-FM)
+### [STAAR-FM: Scalable Terrain-Aware Adaptive Resolution Framework for Flow Modeling](https://github.com/Deven-Biehler/STAAR-FM)
 
 This project aims to produce a terrain-aware framework that dynamically adjusts grid resolutions based on local complexity. The framework is tested by predicting stream accumulation in watershed digital elevation models; all while utilizing significantly less data than what is provided.
 
